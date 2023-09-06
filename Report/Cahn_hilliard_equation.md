@@ -60,7 +60,7 @@ Higher values of W increase the energetic penalty for mixing, leading to more pr
 
 The next Figure presents this bulk free-energy.
 
-![Bulk](https://github.com/wentaogong111/NonreciprocalCahnHilliardModel/blob/main/ch-bulk-free-energy.png)
+![Bulk](https://github.com/wentaogong111/CahnHilliard_PhaseSepration/blob/main/Report/ch-bulk-free-energy.png)
 
 ## Choices of Numerical methods #
 
