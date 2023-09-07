@@ -119,7 +119,7 @@ The choice of method depends on several factors, such as the type of problem you
 
 The spectral method offers a powerful tool for solving the Cahn-Hilliard equation efficiently and accurately under the right conditions. Its ability to deal with complex and nonlinear terms efficiently makes it an appealing choice for researchers working on phase separation problems.
 
-However, if you're dealing with non-periodic boundaries, complex geometries, or need to capture discontinuities accurately, FDM or FVM might be more appropriate.
+However, if you're dealing with non-periodic boundaries, complex geometries, or need to capture discontinuities accurately, FEM, FDM or FVM might be more appropriate.
 
 
 ## Case1: Pseudo-spectral method
