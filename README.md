@@ -9,6 +9,7 @@ References:
 
 [Phase Field methods: From fundamentals to applications](https://www.youtube.com/watch?v=FTiBq1o-8e4)
 
+[Solving The Cahn-Hilliard Equation](https://www.youtube.com/watch?v=NakMH8qLw8Q)
 
 [Multi-Phase Fluid Flows: The Cahn-Hilliard Navier-Stokes Framework by Rahul Pandit](https://www.youtube.com/watch?v=0Rmh2OSxayc)
 
