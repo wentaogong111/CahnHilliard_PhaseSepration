@@ -2,6 +2,16 @@
 The python script to solve the Cahn-Hilliard equation using  an implicit pseudospectral algorithm
 
 Author, date: Wentao Gong, On Sep 04, 2023
+
+References:
+
+[Lecture 19 Part VI: Dynamics, the Cahn-Hilliard Equation](https://www.youtube.com/watch?v=O4_6eagE4Gc)
+
+[Phase Field methods: From fundamentals to applications](https://www.youtube.com/watch?v=FTiBq1o-8e4)
+
+Papers in tutorial folder
+
+
 ## Theory and Concepts
 __Cahn-Hilliard Equation:__ This equation models the time evolution of a scalar field $\phi$ which is a fourth-order partial differential equation that models phase separation. Its basic form in real space can be written as:
 
