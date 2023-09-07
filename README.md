@@ -8,7 +8,7 @@ References:
 [Lecture 19 Part VI: Dynamics, the Cahn-Hilliard Equation](https://www.youtube.com/watch?v=O4_6eagE4Gc)
 
 [Phase Field methods: From fundamentals to applications](https://www.youtube.com/watch?v=FTiBq1o-8e4)
-
+[Multi-Phase Fluid Flows: The Cahn-Hilliard Navier-Stokes Framework by Rahul Pandit](https://www.youtube.com/watch?v=0Rmh2OSxayc)
 Papers in tutorial folder
 
 
