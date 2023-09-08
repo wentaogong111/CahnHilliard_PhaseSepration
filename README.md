@@ -1,5 +1,5 @@
 # CahnHilliard_PhaseSepration
-The python script to solve the Cahn-Hilliard equation using  an implicit pseudospectral algorithm
+The Python script to solve the Cahn-Hilliard equation using  an implicit pseudospectral algorithm
 
 Author, date: Wentao Gong, On Sep 04, 2023
 
@@ -9,7 +9,6 @@ References:
 
 [Phase Field methods: From fundamentals to applications](https://www.youtube.com/watch?v=FTiBq1o-8e4)
 
-[Solving The Cahn-Hilliard Equation](https://www.youtube.com/watch?v=NakMH8qLw8Q)
 
 [Multi-Phase Fluid Flows: The Cahn-Hilliard Navier-Stokes Framework by Rahul Pandit](https://www.youtube.com/watch?v=0Rmh2OSxayc)
 
